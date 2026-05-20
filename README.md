@@ -14,8 +14,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 🎓 B.Tech CSE (DS & AI) Student at BML Munjal University  
 💻 Passionate about Full Stack Development, AI, and scalable applications  
-🚀 Building production-ready applications using React, Node.js, MongoDB & Python  
-🧠 Solved 1500+ DSA problems across coding platforms  
+🚀 Building production-ready applications using React, Node.js, MongoDB & Python   
 ⚡ Love creating modern developer experiences and intelligent systems  
 
 ---
