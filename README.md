@@ -170,7 +170,6 @@ Productivity app for academic task management and reminders.
 
 # 🏅 Achievements
 
-🏆 Solved 1500+ DSA Problems  
 🏆 Web Development Internship — Coding Blocks  
 🏆 AI Internship — Acmegrade  
 🏆 Technical Team Member — SATA Club  
