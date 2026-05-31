@@ -61,57 +61,6 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌾 AgroLink
-
-A crop marketplace platform connecting farmers directly with buyers.
-
-### ✨ Features
-- Authentication & Authorization
-- Real-time Order Tracking
-- Responsive Modern UI
-- MongoDB Database Integration
-- Backend APIs & Secure Flow
-
-### 🛠 Tech Stack
-`Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
-
-🔗 GitHub:  
-https://github.com/arpita-123-byte
-
----
-
-## 🩺 DermaScan – Skin Disease Classification
-
-AI-powered disease prediction platform using Deep Learning.
-
-### ✨ Features
-- Skin image upload
-- Real-time disease prediction
-- Interactive React frontend
-- Multi-class classification model
-
-### 🛠 Tech Stack
-`Python` `TensorFlow` `OpenCV` `React`
-
----
-
-## ⏰ TimeSync
-
-Productivity app for academic task management and reminders.
-
-### ✨ Features
-- Reminder System
-- Deadline Tracking
-- Firebase Authentication
-- Clean Mobile UI
-
-### 🛠 Tech Stack
-`Java` `Firebase` `XML`
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -191,12 +140,3 @@ https://github.com/arpita-123-byte
 https://leetcode.com/u/Arpita-bansal/
 
 ---
-
-# ⚡ Fun Fact
-
-```javascript
-while(!success){
-    keepLearning();
-    keepBuilding();
-    stayConsistent();
-}
