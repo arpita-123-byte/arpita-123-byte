@@ -5,7 +5,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Scalable+Applications" />
 </p>
 
 ---
@@ -26,16 +26,16 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/arpita-bansal-583173323/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://www.linkedin.com/in/arpita-bansal-583173323/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/arpita-123-byte" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/arpita-123-byte">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/Arpita-bansal/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" />
+<a href="https://leetcode.com/u/Arpita-bansal/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
 </a>
 
 </p>
@@ -44,56 +44,53 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,sql"/>
 </p>
 
-### ⚡ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch"/>
 </p>
 
-### 🛢️ Databases & Tools
+### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,canva" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,canva"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=arpita-123-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://streak-stats.demolab.com?user=arpita-123-byte&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=arpita-123-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Top Languages
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-123-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-123-byte&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-123-byte&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arpita-123-byte&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -109,69 +106,40 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-123-b
 
 ---
 
-## ⚔️ Coding Profiles
+## 🚀 Featured Projects
 
-<p align="center">
+### 🌾 AgroLink
+Farmer-to-buyer agriculture marketplace built with Node.js, Express, MongoDB and Socket.IO.
 
-<a href="https://leetcode.com/u/Arpita-bansal/">
-  <img src="https://img.shields.io/badge/LeetCode-Arpita--bansal-orange?style=for-the-badge&logo=leetcode" />
-</a>
+### 🤖 Nexa AI Assistant
+AI-powered assistant for schedules, reminders, weather and productivity.
 
-<a href="https://github.com/arpita-123-byte">
-  <img src="https://img.shields.io/badge/GitHub-arpita--123--byte-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/arpita-bansal-583173323/">
-  <img src="https://img.shields.io/badge/LinkedIn-Arpita_Bansal-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-</p>
+### 🏛️ PolicyPal
+AI-powered Government Policy Assistant using RAG, ChromaDB and LoRA fine-tuning.
 
 ---
 
-## 🏅 Experience & Achievements
+## 🏅 Experience
 
-🏆 AI Internship – Acmegrade
+🏆 AI Internship — Acmegrade
 
-🏆 Web Development Internship – Coding Blocks
+🏆 Web Development Internship — Coding Blocks
 
-🏆 Technical Team Member – SATA Club
+🏆 Technical Team Member — SATA Club
 
 🏆 Certifications in AI, Web Development, Canva & Figma
 
 ---
 
-## 🚀 Featured Projects
+## 📫 Contact
 
-### 🌾 AgroLink
-A full-stack agriculture marketplace connecting farmers directly with buyers.
+📧 arpita.bansal.23cse@bmu.edu.in
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Socket.IO
+💻 GitHub: https://github.com/arpita-123-byte
 
-### 🤖 Nexa AI Assistant
-An intelligent AI assistant for task management, reminders, scheduling, weather updates, and productivity.
+🔗 LinkedIn: https://www.linkedin.com/in/arpita-bansal-583173323/
 
-**Tech Stack:** Python, AI/ML, APIs
-
-### 🏛️ PolicyPal
-AI-powered Government Policy Assistant using LLMs, ChromaDB, LoRA Fine-Tuning, and RAG architecture.
-
-**Tech Stack:** Python, ChromaDB, LLMs, LoRA
-
----
-
-## 📫 Contact Me
-
-📧 **Email:** arpita.bansal.23cse@bmu.edu.in
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/arpita-bansal-583173323/
-
-💻 **GitHub:**  
-https://github.com/arpita-123-byte
-
-🧠 **LeetCode:**  
-https://leetcode.com/u/Arpita-bansal/
+🧠 LeetCode: https://leetcode.com/u/Arpita-bansal/
 
 ---
 
