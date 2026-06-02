@@ -10,16 +10,19 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 B.Tech CSE (DS & AI) Student at BML Munjal University  
-💻 Passionate about Full Stack Development, AI, and scalable applications  
-🚀 Building production-ready applications using React, Node.js, MongoDB & Python   
-⚡ Love creating modern developer experiences and intelligent systems  
+🎓 B.Tech CSE (DS & AI) Student at BML Munjal University (2027)
+
+💻 Passionate about Full Stack Development, AI & Machine Learning
+
+🚀 Building modern web applications using React, Node.js, MongoDB & Python
+
+⚡ Always exploring new technologies and solving real-world problems
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -39,21 +42,21 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,sql,cs" />
-</p>
-
-## ⚡ Frameworks & Libraries
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,sql" />
 </p>
 
-## 🛢️ Databases & Tools
+### ⚡ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch" />
+</p>
+
+### 🛢️ Databases & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,canva" />
@@ -61,43 +64,52 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpita-123-byte&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=arpita-123-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-123-byte&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://streak-stats.demolab.com?user=arpita-123-byte&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-123-byte&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-123-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Contribution Graph
+## 🏆 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-123-byte&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpita-123-byte&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Arpita-bansal?theme=dark&font=Nunito&ext=heatmap" />
+
+<img src="https://leetcard.jacoblin.cool/Arpita-bansal?theme=dark&font=Nunito&ext=heatmap"/>
+
 </p>
 
 ---
 
-# ⚔️ Coding Profiles
+## ⚔️ Coding Profiles
 
 <p align="center">
 
@@ -117,26 +129,52 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-# 🏅 Achievements
+## 🏅 Experience & Achievements
 
-🏆 Web Development Internship — Coding Blocks  
-🏆 AI Internship — Acmegrade  
-🏆 Technical Team Member — SATA Club  
-🏆 Certifications in Web Dev, AI, Canva & Figma  
+🏆 AI Internship – Acmegrade
+
+🏆 Web Development Internship – Coding Blocks
+
+🏆 Technical Team Member – SATA Club
+
+🏆 Certifications in AI, Web Development, Canva & Figma
 
 ---
 
-# 📫 Contact Me
+## 🚀 Featured Projects
 
-📧 Email: arpita.bansal.23cse@bmu.edu.in  
+### 🌾 AgroLink
+A full-stack agriculture marketplace connecting farmers directly with buyers.
 
-🔗 LinkedIn:  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Socket.IO
+
+### 🤖 Nexa AI Assistant
+An intelligent AI assistant for task management, reminders, scheduling, weather updates, and productivity.
+
+**Tech Stack:** Python, AI/ML, APIs
+
+### 🏛️ PolicyPal
+AI-powered Government Policy Assistant using LLMs, ChromaDB, LoRA Fine-Tuning, and RAG architecture.
+
+**Tech Stack:** Python, ChromaDB, LLMs, LoRA
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** arpita.bansal.23cse@bmu.edu.in
+
+🔗 **LinkedIn:**  
 https://www.linkedin.com/in/arpita-bansal-583173323/
 
-💻 GitHub:  
+💻 **GitHub:**  
 https://github.com/arpita-123-byte
 
-🧠 LeetCode:  
+🧠 **LeetCode:**  
 https://leetcode.com/u/Arpita-bansal/
 
 ---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
